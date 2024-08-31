@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-31T18:17:40 IST" name="Default suite" finished-at="2024-08-31T18:19:11 IST" duration-ms="91145">
+    <groups>
+    </groups>
+    <test started-at="2024-08-31T18:17:40 IST" name="Default test" finished-at="2024-08-31T18:19:11 IST" duration-ms="91145">
+      <class name="Test.TestScript">
+        <test-method is-config="true" signature="ReportConf()[pri:0, instance:Test.TestScript@6fa51cd4]" started-at="2024-08-31T18:17:40 IST" name="ReportConf" finished-at="2024-08-31T18:17:40 IST" duration-ms="202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReportConf -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.TestScript@6fa51cd4]" started-at="2024-08-31T18:17:40 IST" name="setup" finished-at="2024-08-31T18:17:50 IST" duration-ms="9145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="HomePage()[pri:1, instance:Test.TestScript@6fa51cd4]" started-at="2024-08-31T18:17:50 IST" name="HomePage" finished-at="2024-08-31T18:17:51 IST" duration-ms="1420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePage -->
+        <test-method is-config="true" signature="teradown()[pri:0, instance:Test.TestScript@6fa51cd4]" started-at="2024-08-31T18:17:51 IST" name="teradown" finished-at="2024-08-31T18:17:51 IST" duration-ms="175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teradown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.TestScript@6fa51cd4]" started-at="2024-08-31T18:17:51 IST" name="setup" finished-at="2024-08-31T18:17:56 IST" duration-ms="4968" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="HomePage1()[pri:2, instance:Test.TestScript@6fa51cd4]" started-at="2024-08-31T18:17:56 IST" name="HomePage1" finished-at="2024-08-31T18:17:57 IST" duration-ms="671" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePage1 -->
+        <test-method is-config="true" signature="teradown()[pri:0, instance:Test.TestScript@6fa51cd4]" started-at="2024-08-31T18:17:57 IST" name="teradown" finished-at="2024-08-31T18:17:57 IST" duration-ms="148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teradown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.TestScript@6fa51cd4]" started-at="2024-08-31T18:17:57 IST" name="setup" finished-at="2024-08-31T18:18:00 IST" duration-ms="3402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="KidsAndToys()[pri:3, instance:Test.TestScript@6fa51cd4]" started-at="2024-08-31T18:18:00 IST" name="KidsAndToys" finished-at="2024-08-31T18:18:03 IST" duration-ms="2277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- KidsAndToys -->
+        <test-method is-config="true" signature="teradown()[pri:0, instance:Test.TestScript@6fa51cd4]" started-at="2024-08-31T18:18:03 IST" name="teradown" finished-at="2024-08-31T18:18:03 IST" duration-ms="141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teradown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.TestScript@6fa51cd4]" started-at="2024-08-31T18:18:03 IST" name="setup" finished-at="2024-08-31T18:18:08 IST" duration-ms="4903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="KidsAndToys1()[pri:4, instance:Test.TestScript@6fa51cd4]" started-at="2024-08-31T18:18:08 IST" name="KidsAndToys1" finished-at="2024-08-31T18:18:10 IST" duration-ms="2119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- KidsAndToys1 -->
+        <test-method is-config="true" signature="teradown()[pri:0, instance:Test.TestScript@6fa51cd4]" started-at="2024-08-31T18:18:10 IST" name="teradown" finished-at="2024-08-31T18:18:10 IST" duration-ms="126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teradown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.TestScript@6fa51cd4]" started-at="2024-08-31T18:18:10 IST" name="setup" finished-at="2024-08-31T18:18:15 IST" duration-ms="4674" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="KidsAndToys2()[pri:5, instance:Test.TestScript@6fa51cd4]" started-at="2024-08-31T18:18:15 IST" name="KidsAndToys2" finished-at="2024-08-31T18:18:17 IST" duration-ms="2386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- KidsAndToys2 -->
+        <test-method is-config="true" signature="teradown()[pri:0, instance:Test.TestScript@6fa51cd4]" started-at="2024-08-31T18:18:17 IST" name="teradown" finished-at="2024-08-31T18:18:17 IST" duration-ms="133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teradown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.TestScript@6fa51cd4]" started-at="2024-08-31T18:18:17 IST" name="setup" finished-at="2024-08-31T18:18:21 IST" duration-ms="4117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="KidsAndToys3()[pri:6, instance:Test.TestScript@6fa51cd4]" started-at="2024-08-31T18:18:21 IST" name="KidsAndToys3" finished-at="2024-08-31T18:18:24 IST" duration-ms="2461" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- KidsAndToys3 -->
+        <test-method is-config="true" signature="teradown()[pri:0, instance:Test.TestScript@6fa51cd4]" started-at="2024-08-31T18:18:24 IST" name="teradown" finished-at="2024-08-31T18:18:24 IST" duration-ms="150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teradown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.TestScript@6fa51cd4]" started-at="2024-08-31T18:18:24 IST" name="setup" finished-at="2024-08-31T18:18:27 IST" duration-ms="3562" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="KidsAndToys4()[pri:7, instance:Test.TestScript@6fa51cd4]" started-at="2024-08-31T18:18:27 IST" name="KidsAndToys4" finished-at="2024-08-31T18:18:30 IST" duration-ms="2550" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- KidsAndToys4 -->
+        <test-method is-config="true" signature="teradown()[pri:0, instance:Test.TestScript@6fa51cd4]" started-at="2024-08-31T18:18:30 IST" name="teradown" finished-at="2024-08-31T18:18:30 IST" duration-ms="159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teradown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.TestScript@6fa51cd4]" started-at="2024-08-31T18:18:30 IST" name="setup" finished-at="2024-08-31T18:18:34 IST" duration-ms="3966" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="KidsAndToys5()[pri:8, instance:Test.TestScript@6fa51cd4]" started-at="2024-08-31T18:18:34 IST" name="KidsAndToys5" finished-at="2024-08-31T18:18:39 IST" duration-ms="4470" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- KidsAndToys5 -->
+        <test-method is-config="true" signature="teradown()[pri:0, instance:Test.TestScript@6fa51cd4]" started-at="2024-08-31T18:18:39 IST" name="teradown" finished-at="2024-08-31T18:18:39 IST" duration-ms="71" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teradown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.TestScript@6fa51cd4]" started-at="2024-08-31T18:18:39 IST" name="setup" finished-at="2024-08-31T18:18:42 IST" duration-ms="3390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="KidsAndToys6()[pri:9, instance:Test.TestScript@6fa51cd4]" started-at="2024-08-31T18:18:42 IST" name="KidsAndToys6" finished-at="2024-08-31T18:18:49 IST" duration-ms="6686" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- KidsAndToys6 -->
+        <test-method is-config="true" signature="teradown()[pri:0, instance:Test.TestScript@6fa51cd4]" started-at="2024-08-31T18:18:49 IST" name="teradown" finished-at="2024-08-31T18:18:49 IST" duration-ms="132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teradown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.TestScript@6fa51cd4]" started-at="2024-08-31T18:18:49 IST" name="setup" finished-at="2024-08-31T18:19:01 IST" duration-ms="11868" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="RemoteControlToys()[pri:10, instance:Test.TestScript@6fa51cd4]" started-at="2024-08-31T18:19:01 IST" name="RemoteControlToys" finished-at="2024-08-31T18:19:11 IST" duration-ms="9944" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RemoteControlToys -->
+        <test-method is-config="true" signature="teradown()[pri:0, instance:Test.TestScript@6fa51cd4]" started-at="2024-08-31T18:19:11 IST" name="teradown" finished-at="2024-08-31T18:19:11 IST" duration-ms="151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teradown -->
+        <test-method is-config="true" signature="flush()[pri:0, instance:Test.TestScript@6fa51cd4]" started-at="2024-08-31T18:19:11 IST" name="flush" finished-at="2024-08-31T18:19:11 IST" duration-ms="500" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flush -->
+      </class> <!-- Test.TestScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
